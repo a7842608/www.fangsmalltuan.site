@@ -1,0 +1,2397 @@
+2020-12-09 14:18:44,001 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:18:44,002 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 14:18:44,002 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:18:44,003 INFO     Listening on TCP address 10.0.16.17:8001
+2020-12-09 14:56:42,572 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:42,573 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 14:56:42,573 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:42,574 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 14:56:44,749 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:44,750 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 14:56:44,750 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:44,751 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 14:56:46,597 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:46,597 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 14:56:46,598 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:46,599 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 14:56:48,658 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:48,659 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 14:56:48,659 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:48,660 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 14:56:51,680 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:51,681 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 14:56:51,681 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:51,682 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 14:56:53,505 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:53,506 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 14:56:53,506 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:53,507 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 14:56:55,261 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:55,262 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 14:56:55,262 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:55,263 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 14:56:57,993 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:57,994 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 14:56:57,994 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:56:57,995 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 14:57:01,804 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:57:01,805 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 14:57:01,805 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 14:57:01,806 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 15:08:20,283 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 15:08:20,284 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 15:08:20,284 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 15:08:20,285 INFO     Listening on TCP address 10.0.16.17:8001
+39.71.87.187:0 - - [09/Dec/2020:15:08:23] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:08:23] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:11:04] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:12:04] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:12:04] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+1 链接数
+123456789 走到1
+39.71.87.187:0 - - [09/Dec/2020:15:12:34] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:12:34] "WSCONNECT /talk/ws/chat/123456789/" - -
+7c04383bda9345ccab6cfd0a543a1b24
+1 链接数
+7c04383bda9345ccab6cfd0a543a1b24 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '请问你们楼盘什么时候开盘呢？', 'group': '123456789'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '快了就这几天', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '00', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:15:14:36] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:14:52] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:14:52] "WSCONNECT /talk/ws/chat/123456789/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '..', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:15:15:15] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:15:37] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:15:37] "WSCONNECT /talk/ws/chat/123456789/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '你在哪', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:15:17:08] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:17:22] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:17:22] "WSCONNECT /talk/ws/chat/123456789/" - -
+7c04383bda9345ccab6cfd0a543a1b24
+1 链接数
+7c04383bda9345ccab6cfd0a543a1b24 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '山东省济南市历下区解放路99号历下大厦济南市历下区人民政府(解放东路北)(济南市历下区人民政府(解放东路北))', 'group': '123456789'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0000', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+112.224.4.167:0 - - [09/Dec/2020:15:19:48] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+112.224.4.167:0 - - [09/Dec/2020:15:19:48] "WSCONNECT /talk/ws/chat/123456789/" - -
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '你好，想咨询下楼盘信息。', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '你好，想咨询下楼盘信息。', 'group': '123456789'}
+39.71.87.187:0 - - [09/Dec/2020:15:21:50] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:15:22:14] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:15:22:14] "WSCONNECT /talk/ws/chat/123456789/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '012', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '012', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+112.224.4.167:0 - - [09/Dec/2020:15:23:24] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+112.224.4.167:0 - - [09/Dec/2020:15:23:51] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+112.224.4.167:0 - - [09/Dec/2020:15:23:51] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:24:09] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:24:11] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:24:11] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '11', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '11', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:15:24:44] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:15:25:10] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:15:25:10] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:26:43] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:15:28:57] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:15:28:57] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:29:32] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:15:29:35] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:15:29:35] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:31:17] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:15:31:20] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:15:31:20] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:31:46] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 3
+39.71.87.187:0 - - [09/Dec/2020:15:31:46] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:32:19] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:32:19] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 2
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:15:32:22] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:15:32:22] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:32:46] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:32:49] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:32:49] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '12', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '12', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '.', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '.', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:15:37:39] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:15:37:42] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:15:37:42] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:39:37] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:15:39:42] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:15:39:42] "WSCONNECT /talk/ws/chat/123456789/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '13212', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '13212', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '...', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '...', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '00', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '00', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:15:43:00] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:43:03] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:43:03] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:15:43:35] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:43:36] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:43:36] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '....', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '....', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '.', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '.', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '你好，想咨询下楼盘信息。', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '你好，想咨询下楼盘信息。', 'group': '123456789'}
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '请问你们楼盘什么时候开盘呢？', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '请问你们楼盘什么时候开盘呢？', 'group': '123456789'}
+39.71.87.187:0 - - [09/Dec/2020:15:46:10] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:46:14] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:46:14] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '....', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '....', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '你好，想咨询下楼盘信息。', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '你好，想咨询下楼盘信息。', 'group': '123456789'}
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '00', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '00', 'group': '123456789'}
+39.71.87.187:0 - - [09/Dec/2020:15:47:23] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:15:47:25] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:15:47:25] "WSCONNECT /talk/ws/chat/123456789/" - -
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '请问你们楼盘什么时候开盘呢？', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '请问你们楼盘什么时候开盘呢？', 'group': '123456789'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '...', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '...', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '...', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '...', 'group': '123456789'}
+39.71.87.187:0 - - [09/Dec/2020:15:50:57] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:50:59] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:50:59] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+null
+1 链接数
+null 走到1
+39.71.87.187:0 - - [09/Dec/2020:15:51:43] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:15:51:48] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:15:51:48] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:15:51:53] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:51:55] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:51:55] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '00', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '00', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '..', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '..', 'group': '123456789'}
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '000', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '000', 'group': '123456789'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '000', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '000', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:15:58:18] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:15:58:20] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:15:58:20] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0000', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0000', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '1111', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '1111', 'group': '123456789'}
+39.71.87.187:0 - - [09/Dec/2020:16:27:30] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:27:33] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:27:33] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:28:20] "WSCONNECTING /talk/ws/chat/undefined/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:16:28:20] "WSCONNECT /talk/ws/chat/undefined/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:28:40] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:28:40] "WSDISCONNECT /talk/ws/chat/undefined/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:16:28:45] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:28:45] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:29:02] "WSCONNECTING /talk/ws/chat/undefined/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:16:29:02] "WSCONNECT /talk/ws/chat/undefined/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:29:15] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:29:15] "WSDISCONNECT /talk/ws/chat/undefined/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:16:29:19] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:29:19] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:29:32] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:29:32] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:30:22] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:30:22] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:30:24] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:30:24] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:30:37] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:30:37] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:31:18] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:31:18] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:31:21] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:31:21] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:31:33] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:31:33] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:31:48] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:31:52] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:31:52] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+2 链接数
+chat_7c04383bda9345ccab6cfd0a543a1b24 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '..', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '..', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+123456789
+2 链接数
+chat_7c04383bda9345ccab6cfd0a543a1b24 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0.0.0', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '0.0.0', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:16:33:17] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:33:19] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:33:19] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:33:42] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 3
+39.71.87.187:0 - - [09/Dec/2020:16:33:42] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+3 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 3, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '...', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 3, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '...', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+123456789
+3 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 3, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '000', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 3, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '000', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:16:37:19] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:37:19] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:37:19] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 2
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:37:23] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:37:23] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:38:05] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:16:38:07] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:16:38:07] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '..000', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '..000', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:16:38:34] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 3
+39.71.87.187:0 - - [09/Dec/2020:16:38:34] "WSCONNECT /talk/ws/chat/123456789/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '..', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '..', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '..', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:16:40:05] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 2
+39.71.87.187:0 - - [09/Dec/2020:16:40:05] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:40:08] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:40:08] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:40:39] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:16:40:40] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:16:40:40] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '123132', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '123132', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+39.71.87.187:0 - - [09/Dec/2020:16:41:13] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 3
+39.71.87.187:0 - - [09/Dec/2020:16:41:13] "WSCONNECT /talk/ws/chat/123456789/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:43:41] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 2
+39.71.87.187:0 - - [09/Dec/2020:16:43:41] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:43:44] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:43:44] "WSCONNECT /talk/ws/chat/123456789/" - -
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '000', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '000', 'group': '123456789'}
+39.71.87.187:0 - - [09/Dec/2020:16:44:20] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:16:44:26] "WSDISCONNECT /talk/ws/chat/123456789/" - -
+关闭后 1
+39.71.87.187:0 - - [09/Dec/2020:16:44:29] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:16:44:29] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+39.71.87.187:0 - - [09/Dec/2020:16:44:34] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 2
+39.71.87.187:0 - - [09/Dec/2020:16:44:34] "WSCONNECT /talk/ws/chat/123456789/" - -
+7c04383bda9345ccab6cfd0a543a1b24
+2 链接数
+chat_123456789 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '0.0.', 'group': '123456789'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '0.0.', 'group': '123456789'}
+39.71.87.187:0 - - [09/Dec/2020:16:45:54] "WSCONNECTING /talk/ws/chat/123456789/" - -
+长度 3
+39.71.87.187:0 - - [09/Dec/2020:16:45:54] "WSCONNECT /talk/ws/chat/123456789/" - -
+7c04383bda9345ccab6cfd0a543a1b24
+3 链接数
+7c04383bda9345ccab6cfd0a543a1b24 走到1
+{'type': 'push.message', 'connections': 3, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '111', 'group': '123456789'}
+123456789
+1 链接数
+123456789 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '121', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '121', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+{'type': 'push.message', 'connections': 1, 'user_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'mper_room_number': '123456789', 'user_header_image': '/static/demo.png', 'message': '121', 'group': '7c04383bda9345ccab6cfd0a543a1b24'}
+7c04383bda9345ccab6cfd0a543a1b24
+3 链接数
+7c04383bda9345ccab6cfd0a543a1b24 走到1
+{'type': 'push.message', 'connections': 3, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '111', 'group': '123456789'}
+7c04383bda9345ccab6cfd0a543a1b24
+3 链接数
+7c04383bda9345ccab6cfd0a543a1b24 走到1
+{'type': 'push.message', 'connections': 3, 'user_room_number': '123456789', 'mper_room_number': '7c04383bda9345ccab6cfd0a543a1b24', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epAyJJabImnL1D4xyVEpL78Ql1XylpKt7xUAq3F1iaNRQnwKiaMW3diaM3IYgzLicfeTT3ewxqvVUMeyg/132', 'message': '请问你们楼盘什么时候开盘呢？', 'group': '123456789'}
+39.71.87.187:0 - - [09/Dec/2020:16:51:28] "WSDISCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+关闭后 0
+39.71.87.187:0 - - [09/Dec/2020:16:51:30] "WSCONNECTING /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+长度 1
+39.71.87.187:0 - - [09/Dec/2020:16:51:30] "WSCONNECT /talk/ws/chat/7c04383bda9345ccab6cfd0a543a1b24/" - -
+2020-12-09 22:16:47,862 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:16:47,863 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 22:16:47,863 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:16:47,864 INFO     Listening on TCP address 10.0.16.17:8001
+2020-12-09 22:18:09,969 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:09,969 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 22:18:09,970 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:09,970 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 22:18:11,922 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:11,923 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 22:18:11,923 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:11,924 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 22:18:14,840 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:14,840 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 22:18:14,840 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:14,841 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 22:18:18,752 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:18,753 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 22:18:18,753 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:18,754 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 22:18:39,169 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:39,170 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 22:18:39,170 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:39,171 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 22:18:40,836 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:40,837 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 22:18:40,837 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:40,838 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 22:18:43,512 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:43,513 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 22:18:43,513 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:43,514 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-09 22:18:47,182 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:47,182 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-09 22:18:47,183 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-09 22:18:47,183 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-11 16:13:44,802 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:13:44,802 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-11 16:13:44,802 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:13:44,803 INFO     Listening on TCP address 10.0.16.17:8001
+2020-12-11 16:15:40,850 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:15:40,850 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-11 16:15:40,850 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:15:40,851 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-11 16:15:42,818 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:15:42,819 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-11 16:15:42,819 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:15:42,820 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-11 16:15:45,723 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:15:45,724 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-11 16:15:45,724 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:15:45,725 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-11 16:15:49,629 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:15:49,629 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-11 16:15:49,629 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:15:49,630 CRITICAL Listen failure: Couldn't listen on 10.0.16.17:8001: [Errno 98] Address already in use.
+2020-12-11 16:40:07,831 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:40:07,832 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-11 16:40:07,832 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-11 16:40:07,833 INFO     Listening on TCP address 10.0.16.17:8001
+Not Found: /talk/xxts/
+2020-12-11 17:04:15,869 WARNING  Not Found: /talk/xxts/
+Not Found: /talk/xxts/
+2020-12-11 17:04:52,192 WARNING  Not Found: /talk/xxts/
+Not Found: /talk/xxts/
+2020-12-11 17:05:17,594 WARNING  Not Found: /talk/xxts/
+39.91.109.253:0 - - [11/Dec/2020:16:45:16] "WSCONNECTING /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:16:45:16] "WSCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+39.91.109.253:0 - - [11/Dec/2020:16:45:54] "WSDISCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:16:45:56] "WSCONNECTING /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:16:45:56] "WSCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+39.91.109.253:0 - - [11/Dec/2020:16:46:54] "WSDISCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:16:46:55] "WSCONNECTING /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:16:46:55] "WSCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+39.91.109.253:0 - - [11/Dec/2020:16:47:12] "WSDISCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:16:47:13] "WSCONNECTING /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:16:47:13] "WSCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+39.91.109.253:0 - - [11/Dec/2020:16:48:50] "WSDISCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:16:48:52] "WSCONNECTING /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:16:48:52] "WSCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+39.91.109.253:0 - - [11/Dec/2020:16:49:12] "WSDISCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:16:49:13] "WSCONNECTING /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:16:49:13] "WSCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+39.91.109.253:0 - - [11/Dec/2020:16:49:38] "WSDISCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:16:49:39] "WSCONNECTING /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:16:49:39] "WSCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+39.91.109.253:0 - - [11/Dec/2020:16:51:06] "WSDISCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:16:51:07] "WSCONNECTING /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:16:51:07] "WSCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+39.91.109.253:0 - - [11/Dec/2020:16:53:58] "WSCONNECTING /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+长度 2
+39.91.109.253:0 - - [11/Dec/2020:16:53:58] "WSCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+39.91.109.253:0 - - [11/Dec/2020:16:55:16] "WSDISCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+关闭后 1
+39.91.109.253:0 - - [11/Dec/2020:16:57:26] "WSCONNECTING /talk/ws/chat/773efe20dd2041c5801802691ad35415/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:16:57:26] "WSCONNECT /talk/ws/chat/773efe20dd2041c5801802691ad35415/" - -
+39.91.109.253:0 - - [11/Dec/2020:16:57:44] "WSDISCONNECT /talk/ws/chat/773efe20dd2041c5801802691ad35415/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:16:58:53] "WSCONNECTING /talk/ws/chat/d5b6894e6bbf419bac706077fda4bb0b/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:16:58:53] "WSCONNECT /talk/ws/chat/d5b6894e6bbf419bac706077fda4bb0b/" - -
+39.91.109.253:0 - - [11/Dec/2020:17:02:19] "WSDISCONNECT /talk/ws/chat/d5b6894e6bbf419bac706077fda4bb0b/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:17:02:24] "WSCONNECTING /talk/ws/chat/d5b6894e6bbf419bac706077fda4bb0b/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:17:02:24] "WSCONNECT /talk/ws/chat/d5b6894e6bbf419bac706077fda4bb0b/" - -
+39.91.109.253:0 - - [11/Dec/2020:17:03:37] "WSDISCONNECT /talk/ws/chat/2cd79ca9f76e40bc99d373790e926a74/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:17:03:51] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:17:03:51] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+d5b6894e6bbf419bac706077fda4bb0b
+1 链接数
+d5b6894e6bbf419bac706077fda4bb0b 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': '55e8d81fa59a4fbeb613464c057fe5b7', 'mper_room_number': 'd5b6894e6bbf419bac706077fda4bb0b', 'user_header_image': '/static/demo.png', 'message': '1111', 'group': '55e8d81fa59a4fbeb613464c057fe5b7'}
+55e8d81fa59a4fbeb613464c057fe5b7
+1 链接数
+55e8d81fa59a4fbeb613464c057fe5b7 走到1
+{'type': 'push.message', 'connections': 1, 'user_room_number': 'd5b6894e6bbf419bac706077fda4bb0b', 'mper_room_number': '55e8d81fa59a4fbeb613464c057fe5b7', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoAR2a7LRukR5HcD8SM2z5yqqMzOEs6yxIy3VO7IkgMwabo2ia3dmaNpro5ov72GMcZVkaeysAV5Dw/132', 'message': '0000', 'group': 'd5b6894e6bbf419bac706077fda4bb0b'}
+39.91.109.253:0 - - [11/Dec/2020:17:04:15] "POST /talk/xxts/" 404 15077
+39.91.109.253:0 - - [11/Dec/2020:17:04:38] "WSCONNECTING /talk/ws/chat/d5b6894e6bbf419bac706077fda4bb0b/" - -
+长度 2
+39.91.109.253:0 - - [11/Dec/2020:17:04:38] "WSCONNECT /talk/ws/chat/d5b6894e6bbf419bac706077fda4bb0b/" - -
+55e8d81fa59a4fbeb613464c057fe5b7
+2 链接数
+chat_d5b6894e6bbf419bac706077fda4bb0b 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': 'd5b6894e6bbf419bac706077fda4bb0b', 'mper_room_number': '55e8d81fa59a4fbeb613464c057fe5b7', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoAR2a7LRukR5HcD8SM2z5yqqMzOEs6yxIy3VO7IkgMwabo2ia3dmaNpro5ov72GMcZVkaeysAV5Dw/132', 'message': '你好，想咨询下楼盘信息。', 'group': 'd5b6894e6bbf419bac706077fda4bb0b'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': 'd5b6894e6bbf419bac706077fda4bb0b', 'mper_room_number': '55e8d81fa59a4fbeb613464c057fe5b7', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoAR2a7LRukR5HcD8SM2z5yqqMzOEs6yxIy3VO7IkgMwabo2ia3dmaNpro5ov72GMcZVkaeysAV5Dw/132', 'message': '你好，想咨询下楼盘信息。', 'group': 'd5b6894e6bbf419bac706077fda4bb0b'}
+39.91.109.253:0 - - [11/Dec/2020:17:04:52] "POST /talk/xxts/" 404 15077
+55e8d81fa59a4fbeb613464c057fe5b7
+2 链接数
+chat_d5b6894e6bbf419bac706077fda4bb0b 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': 'd5b6894e6bbf419bac706077fda4bb0b', 'mper_room_number': '55e8d81fa59a4fbeb613464c057fe5b7', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoAR2a7LRukR5HcD8SM2z5yqqMzOEs6yxIy3VO7IkgMwabo2ia3dmaNpro5ov72GMcZVkaeysAV5Dw/132', 'message': '。。。', 'group': 'd5b6894e6bbf419bac706077fda4bb0b'}
+{'type': 'chat.message', 'connections': 2, 'user_room_number': 'd5b6894e6bbf419bac706077fda4bb0b', 'mper_room_number': '55e8d81fa59a4fbeb613464c057fe5b7', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoAR2a7LRukR5HcD8SM2z5yqqMzOEs6yxIy3VO7IkgMwabo2ia3dmaNpro5ov72GMcZVkaeysAV5Dw/132', 'message': '。。。', 'group': 'd5b6894e6bbf419bac706077fda4bb0b'}
+39.91.109.253:0 - - [11/Dec/2020:17:05:17] "POST /talk/xxts/" 404 15077
+39.91.109.253:0 - - [11/Dec/2020:17:05:25] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:17:05:26] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:17:05:26] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [11/Dec/2020:17:05:42] "WSDISCONNECT /talk/ws/chat/d5b6894e6bbf419bac706077fda4bb0b/" - -
+关闭后 1
+39.91.109.253:0 - - [11/Dec/2020:17:05:43] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:17:05:45] "WSCONNECTING /talk/ws/chat/d5b6894e6bbf419bac706077fda4bb0b/" - -
+长度 2
+39.91.109.253:0 - - [11/Dec/2020:17:05:45] "WSCONNECT /talk/ws/chat/d5b6894e6bbf419bac706077fda4bb0b/" - -
+55e8d81fa59a4fbeb613464c057fe5b7
+2 链接数
+chat_d5b6894e6bbf419bac706077fda4bb0b 走到2
+{'type': 'chat.message', 'connections': 2, 'user_room_number': 'd5b6894e6bbf419bac706077fda4bb0b', 'mper_room_number': '55e8d81fa59a4fbeb613464c057fe5b7', 'user_header_image': 'https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoAR2a7LRukR5HcD8SM2z5yqqMzOEs6yxIy3VO7IkgMwabo2ia3dmaNpro5ov72GMcZVkaeysAV5Dw/132', 'message': '00', 'group': 'd5b6894e6bbf419bac706077fda4bb0b'}Not Found: /talk/xxts/
+2020-12-11 17:05:58,522 WARNING  Not Found: /talk/xxts/
+Not Found: /talk/room
+2020-12-11 17:18:15,532 WARNING  Not Found: /talk/room
+2020-12-11 17:22:23,389 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-11 17:22:23,390 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-11 17:22:23,390 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-11 17:22:23,391 INFO     Listening on TCP address 10.0.16.17:8001
+Not Found: /talk/room
+2020-12-11 17:27:55,410 WARNING  Not Found: /talk/room
+2020-12-11 17:38:45,775 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-11 17:38:45,776 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-11 17:38:45,776 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-11 17:38:45,777 INFO     Listening on TCP address 10.0.16.17:8001
+Not Found: /talk/room
+2020-12-11 19:08:09,167 WARNING  Not Found: /talk/room
+Not Found: /talk/room
+2020-12-11 19:47:51,019 WARNING  Not Found: /talk/room
+Not Found: /talk/xxts/
+2020-12-12 09:16:10,847 WARNING  Not Found: /talk/xxts/
+39.91.109.253:0 - - [11/Dec/2020:17:39:01] "WSCONNECTING /talk/ws/chat/9e7e619ded10470686b43bc5ca8e0633/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:17:39:01] "WSCONNECT /talk/ws/chat/9e7e619ded10470686b43bc5ca8e0633/" - -
+39.91.109.253:0 - - [11/Dec/2020:17:48:24] "WSDISCONNECT /talk/ws/chat/9e7e619ded10470686b43bc5ca8e0633/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:17:49:04] "WSCONNECTING /talk/ws/chat/a134329016124674a4e20606f6912113/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:17:49:04] "WSCONNECT /talk/ws/chat/a134329016124674a4e20606f6912113/" - -
+39.91.109.253:0 - - [11/Dec/2020:17:53:14] "WSDISCONNECT /talk/ws/chat/a134329016124674a4e20606f6912113/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:17:53:19] "WSCONNECTING /talk/ws/chat/a134329016124674a4e20606f6912113/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:17:53:19] "WSCONNECT /talk/ws/chat/a134329016124674a4e20606f6912113/" - -
+39.91.109.253:0 - - [11/Dec/2020:17:53:41] "WSDISCONNECT /talk/ws/chat/a134329016124674a4e20606f6912113/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:17:54:11] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:17:54:11] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [11/Dec/2020:17:56:47] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:17:56:51] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:17:56:51] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [11/Dec/2020:17:58:32] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:17:58:35] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:17:58:35] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [11/Dec/2020:18:20:27] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:18:20:27] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [11/Dec/2020:18:24:08] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:18:24:09] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:18:24:09] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [11/Dec/2020:18:25:16] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:18:25:17] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:18:25:17] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [11/Dec/2020:18:32:47] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:19:02:10] "WSCONNECTING /talk/ws/chat/ff1fe493c52441a0bf7a40afedf75ba3/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:19:02:10] "WSCONNECT /talk/ws/chat/ff1fe493c52441a0bf7a40afedf75ba3/" - -
+39.91.109.253:0 - - [11/Dec/2020:19:02:23] "WSDISCONNECT /talk/ws/chat/ff1fe493c52441a0bf7a40afedf75ba3/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:19:02:30] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:19:02:30] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+223.104.246.9:0 - - [11/Dec/2020:19:08:09] "GET /talk/room?mp_id=27" 404 15082
+39.91.109.253:0 - - [11/Dec/2020:19:09:21] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+112.224.17.45:0 - - [11/Dec/2020:19:15:52] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+112.224.17.45:0 - - [11/Dec/2020:19:15:52] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+112.224.17.45:0 - - [11/Dec/2020:19:18:42] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+223.104.246.9:0 - - [11/Dec/2020:19:47:51] "GET /talk/room?mp_id=27" 404 15082
+39.91.109.253:0 - - [11/Dec/2020:20:26:36] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:20:26:36] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [11/Dec/2020:20:26:40] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:20:26:41] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:20:26:41] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [11/Dec/2020:20:26:45] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:20:59:06] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:20:59:06] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [11/Dec/2020:21:05:42] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:21:07:10] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [11/Dec/2020:21:32:52] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [11/Dec/2020:21:32:52] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [11/Dec/2020:21:46:23] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+113.128.103.79:0 - - [11/Dec/2020:22:21:06] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+113.128.103.79:0 - - [11/Dec/2020:22:21:06] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+113.128.103.79:0 - - [11/Dec/2020:22:22:46] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+113.128.103.79:0 - - [11/Dec/2020:22:23:04] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+113.128.103.79:0 - - [11/Dec/2020:22:23:04] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+113.128.103.79:0 - - [11/Dec/2020:22:41:19] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:08:50:30] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:08:50:30] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [12/Dec/2020:08:50:43] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:08:50:45] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:08:50:45] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [12/Dec/2020:08:52:13] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:08:52:15] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:08:52:15] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:09:06] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:09:09:08] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:09:09:08] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:09:28] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:09:09:30] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:09:09:30] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:14:45] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:09:16:10] "POST /talk/xxts/" 404 15077
+Not Found: /talk/xxts/
+2020-12-12 09:16:14,583 WARNING  Not Found: /talk/xxts/
+Not Found: /talk/xxts/
+2020-12-12 09:16:19,917 WARNING  Not Found: /talk/xxts/
+Not Found: /talk/xxts/
+2020-12-12 09:17:32,036 WARNING  Not Found: /talk/xxts/
+Not Found: /talk/xxts/
+2020-12-12 09:18:18,532 WARNING  Not Found: /talk/xxts/
+39.91.109.253:0 - - [12/Dec/2020:09:16:14] "POST /talk/xxts/" 404 15077
+39.91.109.253:0 - - [12/Dec/2020:09:16:19] "POST /talk/xxts/" 404 15077
+39.91.109.253:0 - - [12/Dec/2020:09:16:46] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:09:16:46] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+ff1fe493c52441a0bf7a40afedf75ba3
+1 链接数
+ff1fe493c52441a0bf7a40afedf75ba3 走到1
+39.91.109.253:0 - - [12/Dec/2020:09:17:32] "POST /talk/xxts/" 404 15077
+ff1fe493c52441a0bf7a40afedf75ba3
+1 链接数
+ff1fe493c52441a0bf7a40afedf75ba3 走到1
+39.91.109.253:0 - - [12/Dec/2020:09:18:18] "POST /talk/xxts/" 404 15077
+39.91.109.253:0 - - [12/Dec/2020:09:20:54] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:09:20:54] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:21:15] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:09:21:17] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:09:21:17] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:27:45] "WSCONNECTING /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:09:27:45] "WSCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:44:24] "WSCONNECTING /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:09:44:24] "WSCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:46:34] "WSCONNECTING /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:09:46:34] "WSCONNECT /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:47:21] "WSDISCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:09:47:25] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:09:47:44] "WSCONNECTING /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:09:47:44] "WSCONNECT /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:49:10] "WSDISCONNECT /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:09:49:32] "WSDISCONNECT /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:09:49:33] "WSCONNECTING /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:09:49:33] "WSCONNECT /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:51:26] "WSCONNECTING /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:09:51:26] "WSCONNECT /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:52:36] "WSDISCONNECT /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:09:53:14] "WSCONNECTING /talk/ws/chat/8dc0eb9f837349feb3b739752b20574e/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:09:53:14] "WSCONNECT /talk/ws/chat/8dc0eb9f837349feb3b739752b20574e/" - -
+39.91.109.253:0 - - [12/Dec/2020:09:55:11] "WSDISCONNECT /talk/ws/chat/5afeef7e949d494296b67ed9c58f5f87/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:09:55:43] "WSCONNECTING /talk/ws/chat/8dc0eb9f837349feb3b739752b20574e/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:09:55:43] "WSCONNECT /talk/ws/chat/8dc0eb9f837349feb3b739752b20574e/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:01:22] "WSDISCONNECT /talk/ws/chat/8dc0eb9f837349feb3b739752b20574e/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:10:01:26] "WSCONNECTING /talk/ws/chat/8dc0eb9f837349feb3b739752b20574e/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:10:01:26] "WSCONNECT /talk/ws/chat/8dc0eb9f837349feb3b739752b20574e/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:03:24] "WSDISCONNECT /talk/ws/chat/8dc0eb9f837349feb3b739752b20574e/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:10:06:34] "WSCONNECTING /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:10:06:34] "WSCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:12:03] "WSDISCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:10:12:05] "WSCONNECTING /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:10:12:05] "WSCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:12:36] "WSDISCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:10:12:38] "WSCONNECTING /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:10:12:38] "WSCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:13:09] "WSDISCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:10:13:11] "WSCONNECTING /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:10:13:11] "WSCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:13:19] "WSCONNECTING /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:10:13:19] "WSCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:14:21] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:10:15:55] "WSDISCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:10:15:58] "WSCONNECTING /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:10:15:58] "WSCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:23:10] "WSDISCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:10:23:12] "WSDISCONNECT /talk/ws/chat/cb3fbe79c90045cb994ba93066a3cd0c/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:10:23:52] "WSDISCONNECT /talk/ws/chat/8dc0eb9f837349feb3b739752b20574e/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:10:24:21] "WSCONNECTING /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:10:24:21] "WSCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:32:26] "WSDISCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:10:32:36] "WSCONNECTING /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:10:32:36] "WSCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:45:30] "WSDISCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:10:45:33] "WSCONNECTING /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:10:45:33] "WSCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:47:16] "WSDISCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:10:47:19] "WSCONNECTING /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:10:47:19] "WSCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+39.91.109.253:0 - - [12/Dec/2020:10:49:59] "WSDISCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:10:57:34] "WSDISCONNECT /talk/ws/chat/945cef5ac4dd432197684049f067a1dc/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:11:01:12] "WSCONNECTING /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+Not Found: /talk/ws/chat/123456789/
+2020-12-12 12:45:12,431 WARNING  Not Found: /talk/ws/chat/123456789/
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:11:01:12] "WSCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+39.91.109.253:0 - - [12/Dec/2020:11:22:02] "WSDISCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:11:22:05] "WSCONNECTING /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:11:22:05] "WSCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+39.91.109.253:0 - - [12/Dec/2020:11:50:50] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:11:50:50] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [12/Dec/2020:11:51:05] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:11:51:09] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:11:51:09] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [12/Dec/2020:11:55:31] "WSDISCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:11:55:33] "WSCONNECTING /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:11:55:33] "WSCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+39.91.109.253:0 - - [12/Dec/2020:11:58:47] "WSDISCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:11:58:54] "WSCONNECTING /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:11:58:54] "WSCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+39.91.109.253:0 - - [12/Dec/2020:11:59:10] "WSDISCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:11:59:13] "WSCONNECTING /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:11:59:13] "WSCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+101.89.19.140:0 - - [12/Dec/2020:12:45:12] "GET /talk/ws/chat/123456789/" 404 15115
+39.91.109.253:0 - - [12/Dec/2020:14:03:24] "WSDISCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:14:03:27] "WSCONNECTING /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:14:03:27] "WSCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+39.91.109.253:0 - - [12/Dec/2020:14:03:44] "WSDISCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:14:03:46] "WSCONNECTING /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:14:03:46] "WSCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+39.91.109.253:0 - - [12/Dec/2020:14:09:31] "WSDISCONNECT /talk/ws/chat/f26af3afd77a458dab2cb5a84e59e7da/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:14:13:28] "WSCONNECTING /talk/ws/chat/77d6689548054e38a61b11fb3671479b/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:14:13:28] "WSCONNECT /talk/ws/chat/77d6689548054e38a61b11fb3671479b/" - -
+39.91.109.253:0 - - [12/Dec/2020:14:16:27] "WSDISCONNECT /talk/ws/chat/77d6689548054e38a61b11fb3671479b/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:14:18:29] "WSCONNECTING /talk/ws/chat/77d6689548054e38a61b11fb3671479b/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:14:18:29] "WSCONNECT /talk/ws/chat/77d6689548054e38a61b11fb3671479b/" - -
+39.91.109.253:0 - - [12/Dec/2020:14:18:33] "WSDISCONNECT /talk/ws/chat/77d6689548054e38a61b11fb3671479b/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:14:18:34] "WSCONNECTING /talk/ws/chat/77d6689548054e38a61b11fb3671479b/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:14:18:34] "WSCONNECT /talk/ws/chat/77d6689548054e38a61b11fb3671479b/" - -
+39.91.109.253:0 - - [12/Dec/2020:14:18:57] "WSDISCONNECT /talk/ws/chat/77d6689548054e38a61b11fb3671479b/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:14:19:59] "WSCONNECTING /talk/ws/chat/3250430356f248109b3efc5a286a7692/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:14:19:59] "WSCONNECT /talk/ws/chat/3250430356f248109b3efc5a286a7692/" - -
+39.91.109.253:0 - - [12/Dec/2020:14:27:10] "WSCONNECTING /talk/ws/chat/3250430356f248109b3efc5a286a7692/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:14:27:10] "WSCONNECT /talk/ws/chat/3250430356f248109b3efc5a286a7692/" - -
+39.91.109.253:0 - - [12/Dec/2020:14:43:16] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:14:44:27] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:14:44:27] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [12/Dec/2020:14:50:16] "WSDISCONNECT /talk/ws/chat/3250430356f248109b3efc5a286a7692/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:15:05:23] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:05:23] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:07:09] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:23:18] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:23:27] "WSDISCONNECT /talk/ws/chat/3250430356f248109b3efc5a286a7692/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:24:51] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:24:51] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:33:34] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:33:34] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:33:40] "WSDISCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:33:44] "WSCONNECTING /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:33:44] "WSCONNECT /talk/ws/chat/55e8d81fa59a4fbeb613464c057fe5b7/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:34:58] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:35:02] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:35:02] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:40:12] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:40:15] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:40:15] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:41:23] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:41:29] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:41:29] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:41:59] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:42:03] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:42:03] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:42:06] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:42:10] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:42:10] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:43:19] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:43:24] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:43:24] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:45:37] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:45:40] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:45:40] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:46:05] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:46:08] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:46:08] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:46:34] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:46:37] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:46:37] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:46:52] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:46:56] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:46:56] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:47:31] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:47:35] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:47:35] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:15:56:26] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:15:56:30] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:15:56:30] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:01:50] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:02:01] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:02:01] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:02:21] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:02:24] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:02:24] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:03:33] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:03:35] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:03:35] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:03:49] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:03:53] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:03:53] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:04:52] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:04:55] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:04:55] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:05:54] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:05:57] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:05:57] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:09:21] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:09:25] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:09:25] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:15:03] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:15:07] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:15:07] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:16:36] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:16:39] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:16:39] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:16:52] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:16:57] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:16:57] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:19:09] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:19:12] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:19:12] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:21:56] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:22:01] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:22:01] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:30:43] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:30:46] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:30:46] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:32:03] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:32:07] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:32:07] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:41:28] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:44:11] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:44:11] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:44:25] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:16:51:15] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:51:15] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:52:25] "WSCONNECTING /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:16:52:25] "WSCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:53:28] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:16:54:11] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [12/Dec/2020:16:54:11] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:16:59:54] "WSDISCONNECT /talk/ws/chat/60234baa6efd4b90bc1ddcf5ad552396/" - -
+关闭后 0
+39.91.109.253:0 - - [12/Dec/2020:17:00:14] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:00:14] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:01:01] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:01:04] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:01:04] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:05:51] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:05:56] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:05:56] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:10:41] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:10:44] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:10:44] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:13:41] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:13:51] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:13:51] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:14:37] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:14:39] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:14:39] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:14:41] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:14:45] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:14:45] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:14:58] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:15:02] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:15:02] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:15:23] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:15:26] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:15:26] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:16:08] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:16:12] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:16:12] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:16:36] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:16:40] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:16:40] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:17:30] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:17:33] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:17:33] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:17:56] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:17:59] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:17:59] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:18:27] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:18:29] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:18:29] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:18:42] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:18:47] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:18:47] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:18:57] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:19:02] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:19:02] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:19:22] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:19:25] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:19:25] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:19:39] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:19:42] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:19:42] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:19:56] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:20:00] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:20:00] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:20:10] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:20:15] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:20:15] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:20:24] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:20:28] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:20:28] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:20:53] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:20:59] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:20:59] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [12/Dec/2020:17:21:12] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 1
+39.91.109.253:0 - - [12/Dec/2020:17:21:14] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 2
+39.91.109.253:0 - - [12/Dec/2020:17:21:14] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+2020-12-12 18:35:13,756 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-12 18:35:13,757 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-12 18:35:13,757 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-12 18:35:13,758 INFO     Listening on TCP address 10.0.16.17:8001
+2020-12-14 10:12:21,101 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-14 10:12:21,102 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-14 10:12:21,102 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-14 10:12:21,103 INFO     Listening on TCP address 10.0.16.17:8001
+2020-12-14 10:31:50,438 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-14 10:31:50,439 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-14 10:31:50,439 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-14 10:31:50,446 INFO     Listening on TCP address 10.0.16.17:8001
+39.91.109.253:0 - - [14/Dec/2020:10:41:03] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:10:41:03] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+117.136.0.82:0 - - [14/Dec/2020:10:51:24] "WSCONNECTING /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+长度 1
+117.136.0.82:0 - - [14/Dec/2020:10:51:24] "WSCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+117.136.0.82:0 - - [14/Dec/2020:10:52:03] "WSDISCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:10:57:52] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:10:57:55] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:10:57:55] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:05:35] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:05:39] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:05:39] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:06:33] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:06:36] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:06:36] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:25:02] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:25:06] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:25:06] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:26:53] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:26:56] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:26:56] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:27:39] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:27:43] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:27:43] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:29:18] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:29:21] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:29:21] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:53:03] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:53:06] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:53:06] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:56:42] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:56:45] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:56:45] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:57:23] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:57:25] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:57:25] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:58:36] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:58:39] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:58:39] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:11:59:09] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:11:59:11] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:11:59:11] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:12:00:14] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:12:00:17] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:12:00:17] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:12:00:45] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:12:00:47] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:12:00:47] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:13:59:10] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:13:59:13] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:13:59:13] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:06:10] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:06:16] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:06:16] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:06:43] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:06:47] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:06:47] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:07:24] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:07:28] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:07:28] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:08:44] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:08:53] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:08:53] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:13:31] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:13:33] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:13:33] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:14:09] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:14:12] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:14:12] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:14:48] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:14:50] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:14:50] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:15:10] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:15:13] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:15:13] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:15:48] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:15:51] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:15:51] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:16:06] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:16:09] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:16:09] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:16:24] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:16:28] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:16:28] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:16:48] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:16:51] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:16:51] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:17:51] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:17:54] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:17:54] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:20:43] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:20:45] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:20:45] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:22:50] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:22:53] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:22:53] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:23:42] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:23:45] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:23:45] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:24:30] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:24:33] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:24:33] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:24:47] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:24:50] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:24:50] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:25:45] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:25:48] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:25:48] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:26:14] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:26:17] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:26:17] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:26:43] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:26:46] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:26:46] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:27:26] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:27:29] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:27:29] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:27:44] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:27:47] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:27:47] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:28:29] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:28:31] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:28:31] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:30:43] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:30:46] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:30:46] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:40:11] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:40:13] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:40:13] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:43:39] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:43:42] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:43:42] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:45:34] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:45:37] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:45:37] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:46:00] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:46:04] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:46:04] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:47:18] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:47:21] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:47:21] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:47:43] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:47:46] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:47:46] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:47:59] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:48:03] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:48:03] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:48:17] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:48:20] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:48:20] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:48:41] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:48:45] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:48:45] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:49:16] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:49:19] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:49:19] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:14:49:59] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:14:50:01] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:14:50:01] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:00:40] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:00:48] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:00:48] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:03:46] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:03:48] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:03:48] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:08:57] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:09:04] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:09:04] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:10:58] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:11:02] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:11:02] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:11:51] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:11:55] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:11:55] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:12:40] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:12:44] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:12:44] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:49:51] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:49:56] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:49:56] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:50:24] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:50:27] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:50:27] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:50:57] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:51:01] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:51:01] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:52:04] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:52:08] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:52:08] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:53:08] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:53:10] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:53:10] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:53:38] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:53:43] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:53:43] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:54:47] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:54:51] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:54:51] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:56:36] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:56:39] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:56:39] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:15:59:17] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:15:59:21] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:15:59:21] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:03:17] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:03:22] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:03:22] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:04:05] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:04:09] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:04:09] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:05:37] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:05:40] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:05:40] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:05:58] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:06:00] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:06:00] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:08:25] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:08:27] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:08:27] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:11:25] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:11:28] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:11:28] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:12:21] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:12:24] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:12:24] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:16:49] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:16:52] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:16:52] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:19:29] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:19:33] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:19:33] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:19:46] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:19:51] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:19:51] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:20:33] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:20:36] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:20:36] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:21:12] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:21:14] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:21:14] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:21:39] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:21:42] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:21:42] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:22:09] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:22:12] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:22:12] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:24:15] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:24:22] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:24:22] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:24:56] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:24:59] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:24:59] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:25:37] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:25:40] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:25:40] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:27:30] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:27:33] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:27:33] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:30:01] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:30:04] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:30:04] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:41:14] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:41:16] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:41:16] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:43:44] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:43:47] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:43:47] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:47:40] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:47:44] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:47:44] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:47:57] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:48:01] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:48:01] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:49:06] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:49:11] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:49:11] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:50:25] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:50:28] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:50:28] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:51:05] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:51:09] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:51:09] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:51:52] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:51:56] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:51:56] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:52:30] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:52:35] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:52:35] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:53:13] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:53:16] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:53:16] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:55:04] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:55:08] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:55:08] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:55:38] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:55:42] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:55:42] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:56:00] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:56:03] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:56:03] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:56:08] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:56:11] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:56:11] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:56:51] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:56:55] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:56:55] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:57:27] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:57:32] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:57:32] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:58:05] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:58:07] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:58:07] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:58:22] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:58:25] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:58:25] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:59:07] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:59:10] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:59:10] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:16:59:50] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:16:59:53] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:16:59:53] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:04:45] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:04:47] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:04:47] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:05:24] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:05:30] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:05:30] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:08:19] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:08:21] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:08:21] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:08:56] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:08:59] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:08:59] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:16:28] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:16:31] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:16:31] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:16:46] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:16:49] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:16:49] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:17:11] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:19:18] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:19:18] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:19:42] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:19:45] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:19:45] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:20:10] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:20:14] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:20:14] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:20:18] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:20:21] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:20:21] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:20:39] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:20:42] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:20:42] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:20:54] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:20:57] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:20:57] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:21:34] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:21:38] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:21:38] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:23:41] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:23:44] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:23:44] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:24:24] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:24:28] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:24:28] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:17:56:54] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:17:56:57] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:17:56:57] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:09:03] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:09:17] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:09:17] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:14:05] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:14:07] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:14:07] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:15:53] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:15:58] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:15:58] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:16:55] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:17:00] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:17:00] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:17:24] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:17:27] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:17:27] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:18:04] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:18:07] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:18:07] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:18:39] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:18:43] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:18:44] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:41:11] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:41:15] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:41:15] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:42:19] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:42:22] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:42:22] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:44:22] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:44:26] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:44:26] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:44:57] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:44:59] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:44:59] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:49:00] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:49:04] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:49:04] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:49:56] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:50:00] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:50:00] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:53:58] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:54:01] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:54:01] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:54:47] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:54:49] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:54:49] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:55:23] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:55:27] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:55:27] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:56:13] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:56:19] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:56:19] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:57:31] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:57:35] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:57:35] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:18:59:42] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:18:59:46] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:18:59:46] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:00:55] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:00:59] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:00:59] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:01:50] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:01:54] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:01:54] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:02:44] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:02:52] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:02:52] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:07:14] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:07:17] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:07:17] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:09:50] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:09:56] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:09:56] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:09:59] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:10:05] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:10:05] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:10:44] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:10:50] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:10:50] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:11:30] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:11:35] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:11:35] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:12:15] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:12:19] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:12:19] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:14:19] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:14:24] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:14:24] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:16:05] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:16:08] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:16:08] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:20:37] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:20:41] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:20:41] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:22:26] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:22:31] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:22:31] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:40:11] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:40:17] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:40:17] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:42:54] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:42:59] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:42:59] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:44:18] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:44:22] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:44:22] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:47:36] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:47:46] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:47:46] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:19:48:25] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:19:48:30] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:19:48:30] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:20:11:16] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:20:11:22] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:20:11:22] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:20:18:58] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:20:19:02] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:20:19:02] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:20:19:13] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:20:19:17] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:20:19:17] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:20:04] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:20:18] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:20:18] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:20:30] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:20:34] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:20:34] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:20:57] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:21:00] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:21:00] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:21:29] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:21:35] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:21:35] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:21:57] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:22:01] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:22:01] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:22:16] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:22:20] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:22:20] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:22:36] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:22:43] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:22:43] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:23:55] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:24:02] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:24:02] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:47:06] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:47:12] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:47:12] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:57:24] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:57:30] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:57:30] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:58:25] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:58:28] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:58:28] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:21:58:55] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:21:58:58] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:21:58:58] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:22:02:21] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:22:02:28] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:22:02:28] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:22:03:06] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:22:03:09] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:22:03:09] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:22:03:54] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:22:03:58] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:22:03:58] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:22:06:46] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [14/Dec/2020:22:06:53] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [14/Dec/2020:22:06:53] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [14/Dec/2020:22:34:04] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:09:16:17] "WSCONNECTING /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:09:16:17] "WSCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+39.91.109.253:0 - - [15/Dec/2020:09:17:29] "WSDISCONNECT /talk/ws/chat/20165a09da7c481fb2ed2d3926b76961/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:09:32:10] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:09:32:10] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:10:04:22] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:10:04:25] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:10:04:25] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:10:26:06] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:10:26:08] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:10:26:08] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:10:45:48] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:10:45:50] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:10:45:50] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:11:13:28] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:11:13:30] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:11:13:30] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:11:32:21] "WSCONNECTING /talk/ws/chat/f6ccc11b723c4b4c831572358ea69e07/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:11:32:21] "WSCONNECT /talk/ws/chat/f6ccc11b723c4b4c831572358ea69e07/" - -
+39.91.109.253:0 - - [15/Dec/2020:11:34:13] "WSDISCONNECT /talk/ws/chat/f6ccc11b723c4b4c831572358ea69e07/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:11:34:22] "WSCONNECTING /talk/ws/chat/f6ccc11b723c4b4c831572358ea69e07/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:11:34:22] "WSCONNECT /talk/ws/chat/f6ccc11b723c4b4c831572358ea69e07/" - -
+39.91.109.253:0 - - [15/Dec/2020:11:34:45] "WSDISCONNECT /talk/ws/chat/f6ccc11b723c4b4c831572358ea69e07/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:11:35:00] "WSCONNECTING /talk/ws/chat/f6ccc11b723c4b4c831572358ea69e07/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:11:35:00] "WSCONNECT /talk/ws/chat/f6ccc11b723c4b4c831572358ea69e07/" - -
+39.91.109.253:0 - - [15/Dec/2020:11:45:13] "WSCONNECTING /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:11:45:13] "WSCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+39.91.109.253:0 - - [15/Dec/2020:11:54:53] "WSDISCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:11:55:06] "WSCONNECTING /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:11:55:06] "WSCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+39.91.109.253:0 - - [15/Dec/2020:11:56:12] "WSDISCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:11:56:21] "WSCONNECTING /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:11:56:21] "WSCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+39.91.109.253:0 - - [15/Dec/2020:12:00:21] "WSDISCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+关闭后 0
+122.231.18.57:0 - - [15/Dec/2020:12:47:11] "WSCONNECTING /talk/ws/chat/4e7dc2cec92142cd81e93974480e5747/" - -
+长度 1
+122.231.18.57:0 - - [15/Dec/2020:12:47:11] "WSCONNECT /talk/ws/chat/4e7dc2cec92142cd81e93974480e5747/" - -
+122.231.18.57:0 - - [15/Dec/2020:12:47:14] "WSDISCONNECT /talk/ws/chat/4e7dc2cec92142cd81e93974480e5747/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:13:45:26] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:13:45:31] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:13:45:31] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:13:49:48] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:13:49:50] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:13:49:50] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:13:51:20] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:13:51:21] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:13:51:21] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:06:28] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:06:30] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:06:30] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:06:58] "WSCONNECTING /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:06:58] "WSCONNECT /talk/ws/chat/c2a000d6f3f4484885efd8ad86f151f1/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:11:43] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:11:45] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:11:45] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:12:49] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:12:50] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:12:50] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:15:58] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:16:06] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:16:06] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:16:07] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:16:09] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:16:09] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:16:49] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:16:57] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:16:57] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:17:29] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:17:31] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:17:31] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:21:05] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:21:14] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:21:14] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:21:19] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:21:22] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:21:22] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:21:27] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:21:34] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:21:34] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:23:28] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:23:30] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:23:30] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:24:02] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:24:05] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:24:05] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:24:37] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:24:44] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:24:44] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:24:54] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:24:56] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:24:56] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:28:29] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:28:39] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:28:39] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:28:52] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:28:55] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:28:55] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:29:41] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:29:44] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:29:44] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+39.91.109.253:0 - - [15/Dec/2020:14:30:28] "WSDISCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+关闭后 0
+39.91.109.253:0 - - [15/Dec/2020:14:30:31] "WSCONNECTING /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+长度 1
+39.91.109.253:0 - - [15/Dec/2020:14:30:31] "WSCONNECT /talk/ws/chat/6c2eab7352d747ac8b3f75ffd199c9be/" - -
+2020-12-22 09:24:35,262 INFO     Starting server at tcp:port=8001:interface=10.0.16.17
+2020-12-22 09:24:35,263 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2020-12-22 09:24:35,263 INFO     Configuring endpoint tcp:port=8001:interface=10.0.16.17
+2020-12-22 09:24:35,264 INFO     Listening on TCP address 10.0.16.17:8001
+2021-01-09 16:15:05,598 INFO     Starting server at tcp:port=8001:interface=172.21.0.6
+2021-01-09 16:15:05,599 INFO     HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+2021-01-09 16:15:05,599 INFO     Configuring endpoint tcp:port=8001:interface=172.21.0.6
+2021-01-09 16:15:05,600 INFO     Listening on TCP address 172.21.0.6:8001

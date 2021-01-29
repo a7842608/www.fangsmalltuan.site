@@ -1,0 +1,416 @@
+POST http://127.0.0.1:8000/background/adm/yxdju
+Accept: application/json
+
+{
+    "ID_number": "372926123456789123",
+    "audit_status": 0,
+    "find_number": "zx213",
+    "if_win_lottery": 0,
+    "lottery_name": "李四"
+}
+
+<> 2021-01-26T182522.200.json
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju
+Accept: application/json
+
+{
+    "ID_number": "372926123456789123",
+    "audit_status": 0,
+    "find_number": "zx213",
+    "if_win_lottery": 0,
+    "lottery_name": "李四",
+}
+
+<> 2021-01-26T182514.500.html
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju
+Accept: application/json
+
+{
+    "ID_number": "372926123456789123",
+    "audit_status": 0,
+    "find_number": "zx213",
+    "if_win_lottery": 0,
+    "lottery_name": "李四",
+    " village_name_id": 1000021
+}
+
+<> 2021-01-26T182441.500.html
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju
+Accept: application/json
+
+{
+    "ID_number": "372926123456789123",
+    "audit_status": 0,
+    "find_number": "zx213",
+    "if_win_lottery": 0,
+    "lottery_name": "李四",
+    " village_name_id": 1000021
+}
+
+<> 2021-01-26T182222.500.html
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju
+Accept: application/json
+
+{
+"ID_number":"372926123456789123"
+"audit_status":0
+"find_number":"zx213"
+"if_win_lottery":0
+"lottery_name":"李四"
+" village_name_id":1000021
+ }
+
+<> 2021-01-26T182130.500.html
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju/
+Accept: application/json
+
+{
+"ID_number":"372926123456789123"
+"audit_status":0
+"find_number":"zx213"
+"if_win_lottery":0
+"lottery_name":"李四"
+" village_name_id":1000021
+ }
+
+<> 2021-01-26T182102.404.html
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Accept: application/json
+{:
+  "create_time": "2021-1-14",
+  "page": 1
+}:
+
+<> 2021-01-26T171217.500.html
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Accept: application/json
+{:
+  "create_time": "2021-1-14",
+  "page": 1
+}:
+
+<> 2021-01-26T171123.500.html
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Accept: application/json
+{:
+  'create_time': '2021-1-14',
+  'page': 1
+}:
+
+<> 2021-01-26T171050.500.html
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju
+Content-Type: application/json
+
+{
+  "ID_number": "372926123456789123",
+  "audit_status": 0,
+  "if_win_lottery": 0,
+  "lottery_name": "张三",
+  "lottery_number": "SD457",
+  "village_name_id": 1000019
+}
+
+<> 2021-01-23T212917.500.html
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju
+Content-Type: application/json
+
+{
+  "ID_number": "372926123456789123",
+  "audit_status": 0,
+  "if_win_lottery": 0,
+  "lottery_name": "张三",
+  "lottery_number": "SD457",
+  "village_name_id": 1000019
+}
+
+<> 2021-01-23T212655.500.html
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju
+Content-Type: application/json
+
+{
+  "ID_number": "372926123456789123",
+  "audit_status": 0,
+  "if_win_lottery": 0,
+  "lottery_name": "张三",
+  "lottery_number": "SD457",
+  "village_name_id": 1000019
+}
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju
+Content-Type: application/json
+
+{
+  "ID_number": "372926123456789123",
+  "audit_status": 0,
+  "if_win_lottery": 0,
+  "lottery_name": "张三",
+  "lottery_number": "SD457",
+  "village_name_id": 1000019
+}
+
+<> 2021-01-23T212453.500.html
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju
+Content-Type: application/json
+
+{
+  "ID_number": "372926123456789123",
+  "audit_status": 0,
+  "if_win_lottery": 0,
+  "lottery_name": "张三",
+  "lottery_number": "SD457",
+  "village_name_id": 1000019
+}
+
+<> 2021-01-23T212414.500.html
+
+###
+
+POST http://127.0.0.1:8000/background/adm/yxdju/
+Content-Type: application/json
+
+{
+  "ID_number": "372926123456789123",
+  "audit_status": 0,
+  "if_win_lottery": 0,
+  "lottery_name": "张三",
+  "lottery_number": "SD457",
+  "village_name_id": 1000019
+}
+
+<> 2021-01-23T212337.404.html
+
+###
+
+POST https://httpbin.org/post
+Content-Type: application/x-www-form-urlencoded
+
+id=999&value=content
+
+<> 2021-01-23T211954.200.json
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+{'create_time': '2020-11-16','page':'1'}
+
+<> 2021-01-22T170135.500.html
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+{'create_time': '2020-11-16','page':'1'}
+
+<> 2021-01-22T143342.500.html
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+{"create_time": "2020-11-16","page":"1"}
+
+<> 2021-01-22T143300.500.html
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+{"create_time": "2020-11-16","page":"1"}
+
+<> 2021-01-22T143138.500.html
+
+###
+
+POST http://127.0.0.1:8000/jwd/
+Content-Type: application/json
+{"create_time": "2020-11-16","page":"1"}
+
+<> 2021-01-22T143026.500.html
+
+###
+
+POST http://127.0.0.1:8000/jwd/
+Content-Type: application/json
+{"create_time": "2020-11-16","page":"1"}
+
+###
+
+POST http://127.0.0.1:8000/jwd/
+Content-Type: application/json
+{"data": "train_traffic","only_id":"1000021"}
+
+<> 2021-01-22T142922.500.html
+
+###
+
+POST http://127.0.0.1:8000/jwd/
+Content-Type: application/json
+{"data": "train_traffic","only_id": 1000021}
+
+<> 2021-01-22T142821.500.html
+
+###
+
+POST http://127.0.0.1:8000/jwd/
+Content-Type: application/json
+{"data": "train_traffic","only_id": 1000021}
+
+<> 2021-01-22T142515.500.html
+
+###
+
+POST http://127.0.0.1:8000/jwd/
+Content-Type: application/json
+{"data": "train_traffic","only_id": 1000021}
+
+<> 2021-01-22T142402.404.html
+
+###
+
+POST http://127.0.0.1:8000/jwd/
+Content-Type: application/json
+{"data": "train_traffic","only_id": 1000021}
+
+<> 2021-01-22T142232.404.html
+
+###
+
+POST http://127.0.0.1:8000/jwd/
+Content-Type: application/json
+{"data": "train_traffic","only_id": 1000021}
+
+<> 2021-01-22T142145.404.html
+
+###
+
+POST http://localhost:80/jwd/
+Content-Type: application/json
+{"data": "train_traffic","only_id": 1000021}
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+
+{"create_time":"2020-11-16","page":"1"}
+
+<> 2021-01-19T214833.200.json
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+
+{"create_time":"2020-11-16","page":"1"}
+
+<> 2021-01-19T214529.200.json
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+
+{"create_time":"2021-1-14","page":"1"}
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+
+{"create_time":"2021-1-14","page":"1"}
+
+<> 2021-01-19T213349.200.json
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+
+{"create_time":"2021-1-14","page":"1"}
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+
+{"create_time":"2021-1-14","page":"1"}
+
+<> 2021-01-19T213312.500.html
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+
+{"create_time":"2021-1-14","page":"1"}
+
+<> 2021-01-19T213130.500.html
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+
+{"create_time":"2021-1-14","page":"1"}
+
+<> 2021-01-19T212633.500.html
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+
+{"create_time":"2021-1-14","page":"1"}
+
+<> 2021-01-19T212556.500.html
+
+###
+
+POST http://127.0.0.1:8000/zygwph/
+Content-Type: application/json
+
+{"create_time":"2021-1-14","page":"1"}
+
+<> 2021-01-19T212149.500.html
+
+###
+
